@@ -18,7 +18,7 @@ Affiche quelques photos de maisons populaires, une barre de recherche (ex : "Mai
 Boutons d’accès rapides : Voir les plans, Inspiration 3D.
 En pied de page on aura Contact, Qui somme nous, Avis.
 
-2. Galerie (lien derrière le voir les plants)
+2. Galerie (lien derrière voir les plants)
 Contient toutes les photos et vidéos de maisons.
 Filtrer par style (moderne, traditionnelle, duplex, villa, etc.), surface, ou nombre de chambres.
 Chaque image renvoie vers une fiche détaillée de la maison en question.
